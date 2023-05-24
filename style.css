@@ -1,0 +1,10 @@
+body{
+  font-size: 32px;
+}
+
+.displayimage{
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+}
+
